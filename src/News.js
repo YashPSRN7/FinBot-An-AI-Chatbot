@@ -438,9 +438,6 @@ class News extends React.Component{
       </div> 
     </div> {/* end footer-bottom */}  
   </footer>  
-  <div id="preloader"> 
-    <div id="loader" />
-  </div>  
         </>
         )
     }
