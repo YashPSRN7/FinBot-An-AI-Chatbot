@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import News from "./components/News";
 import Down from "./components/Down";
 import Navbar from "./components/Navbar";
+import About from "./components/About"
 
 class App extends Component {
     render() {
@@ -17,7 +18,7 @@ class App extends Component {
                         <Route exact path="/" component={Home} />
                         <Route path="/news" component={News} />
                         <Route path="/down" component={Down} />
-                        {/* <Route path="/about" component={About} /> */}
+                        <Route path="/about" component={About} />
                     </Switch>
                 </div>
             </Router>

@@ -13,6 +13,14 @@
 
 /* Style your items */
 .my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
-  background: grey;
+  background: #f8f8ff;
   margin-bottom: 11px;
+}
+body{
+  background-color: #101010 !important;
+}
+
+.card-img-top{
+  margin: auto;
+
 }
