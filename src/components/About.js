@@ -1,11 +1,11 @@
-import React from 'react';
-import Sectionslide from './Sectionslide';
+import React from "react";
+import SectionSlide from "./SectionSlide";
 
 class About extends React.Component {
     render() {
         return (
             <div className="about">
-                <Sectionslide/>
+                <SectionSlide />
             </div>
         );
     }
