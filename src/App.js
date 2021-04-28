@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import News from "./components/News";
 import Down from "./components/Down";
 import Navbar from "./components/Navbar";
-import About from "./components/About"
+import About from "./components/About";
 
 class App extends Component {
     render() {

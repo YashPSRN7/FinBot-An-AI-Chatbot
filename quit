@@ -1,0 +1,53 @@
+[33mcommit a5887450db8e9f6562197c852790f56422f5783b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pawan <me@pawanpujari.com>
+Date:   Thu Apr 29 01:54:35 2021 +0530
+
+    Section Wipes successful
+
+[33mcommit f7b3f1a2d72ef51ef9467a36b645024c9b1122b7[m
+Author: YashPSRN7 <56504822+YashPSRN7@users.noreply.github.com>
+Date:   Thu Apr 29 01:07:42 2021 +0530
+
+    About broken
+
+[33mcommit 045e3c5c846ecce39211d0962a9d1e1dc3451ac0[m
+Author: YashPSRN7 <56504822+YashPSRN7@users.noreply.github.com>
+Date:   Wed Apr 28 20:34:17 2021 +0530
+
+    refined newds page
+
+[33mcommit fc3d220a6d90e128f7dab6745a106bcee85bad12[m[33m ([m[1;31mFinBot/master[m[33m)[m
+Author: Pawan <me@pawanpujari.com>
+Date:   Wed Apr 28 18:14:10 2021 +0530
+
+    changes by pawan
+
+[33mcommit 330551b7589ac0f497d7ef189ffcccca2f25bd48[m
+Author: YashPSRN7 <56504822+YashPSRN7@users.noreply.github.com>
+Date:   Tue Apr 27 23:31:58 2021 +0530
+
+    masonary works
+
+[33mcommit f92ff9b11bce76cea926f909803c34ed0418e569[m
+Author: Pawan <me@pawanpujari.com>
+Date:   Mon Apr 26 22:58:45 2021 +0530
+
+    Home.js export complete
+
+[33mcommit b29fb1e3a66a3e1b549343b12e15f8866304abc7[m
+Author: YashPSRN7 <56504822+YashPSRN7@users.noreply.github.com>
+Date:   Sat Apr 24 20:41:10 2021 +0530
+
+    added pages and router : status : Not Working
+
+[33mcommit 2d5b816e78260e794eca49feb91197a86fcf2c08[m
+Author: YashPSRN7 <56504822+YashPSRN7@users.noreply.github.com>
+Date:   Tue Apr 13 00:06:06 2021 +0530
+
+    first commit
+
+[33mcommit e7fbf486f27e0b8ae19af2c0bc6fe48c5fe40986[m
+Author: YashPSRN7 <56504822+YashPSRN7@users.noreply.github.com>
+Date:   Sun Apr 11 21:04:06 2021 +0530
+
+    Initialize project using Create React App

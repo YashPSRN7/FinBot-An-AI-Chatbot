@@ -1,4 +1,42 @@
-.sectionwipes {
+.sectiowipes {
+    overflow: hidden;
+}
+
+.sectionwipes #pinContainer {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+.sectionwipes #pinContainer .panel {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    text-align: center;
+}
+.sectionwipes .panel span {
+    position: relative;
+    display: block;
+    top: 50%;
+    font-size: 80px;
+}
+
+.sectionwipes .panel.blue {
+    background-color: #3883d8;
+}
+
+.sectionwipes .panel.turqoise {
+    background-color: #38ced7;
+}
+
+.sectionwipes .panel.green {
+    background-color: #22d659;
+}
+
+.sectionwipes .panel.bordeaux {
+    background-color: #953543;
+}
+
+/* .sectionwipes {
     overflow: hidden;
 }
 
@@ -31,4 +69,4 @@
 
 .sectionwipes .panel.bordeaux {
     background-color: #953543;
-}
+} */
