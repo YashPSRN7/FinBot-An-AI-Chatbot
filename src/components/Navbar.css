@@ -1,0 +1,16 @@
+.navbar-bg {
+    opacity: 0;
+}
+
+.Logo {
+    margin-top: -20px;
+    padding-left: 20px;
+    width: 150px;
+    float: left;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    width: 80%;
+}

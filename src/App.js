@@ -3,38 +3,21 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Home from "./components/Home";
 import News from "./components/News";
 import Down from "./components/Down";
+import Navbar from "./components/Navbar";
 
 class App extends Component {
     render() {
         return (
             <Router>
                 <div>
-                    <h2>Finbot</h2>
-                    <nav className="">
-                        <ul className="">
-                            <li>
-                                <Link to={"/"} className="nav-link">
-                                    {" "}
-                                    Home{" "}
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to={"/news"} className="nav-link">
-                                    News
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to={"/down"} className="nav-link">
-                                    Down
-                                </Link>
-                            </li>
-                        </ul>
-                    </nav>
-                    <hr />
+                    {/* Insert Logo here */}
+
+                    <Navbar> </Navbar>
                     <Switch>
-                        <Route exact path="/home" component={Home} />
-                        <Route exact path="/news" component={News} />
-                        <Route exact path="/down" component={Down} />
+                        <Route exact path="/" component={Home} />
+                        <Route path="/news" component={News} />
+                        <Route path="/down" component={Down} />
+                        {/* <Route path="/about" component={About} /> */}
                     </Switch>
                 </div>
             </Router>
