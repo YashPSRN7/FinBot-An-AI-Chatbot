@@ -29,6 +29,7 @@ class News extends React.Component {
                     </div>
         });
         return (
+            
             <div className="news">
                 <Masonry
                     breakpointCols={ {default: 4, 800: 2} }

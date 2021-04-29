@@ -21,19 +21,19 @@
 }
 
 .sectionwipes .panel.blue {
-    background-color: #3883d8;
+    background-color: #121212;
 }
 
 .sectionwipes .panel.turqoise {
-    background-color: #38ced7;
+    background-color: #9CFF00;
 }
 
 .sectionwipes .panel.green {
-    background-color: #22d659;
+    background-color: #121212;
 }
 
 .sectionwipes .panel.bordeaux {
-    background-color: #953543;
+    background-color: #9CFF00;
 }
 
 /* .sectionwipes {
@@ -70,3 +70,77 @@
 .sectionwipes .panel.bordeaux {
     background-color: #953543;
 } */
+
+
+/* Slide Bio*/
+
+                      
+
+.card2{
+    margin-top: 20%;
+    -moz-border-radius: 2%;
+    -webkit-border-radius: 2%;
+    border-radius: 2%
+    
+}
+
+.profile .profile-body {
+    padding: 100px;
+    background: #f7f7f7;
+}
+
+.profile .profile-bio {
+    background: #f7f7f7;
+    position: relative;
+    padding: 15px 10px 5px 15px;
+}
+
+.profile .profile-bio a {
+    left: 50%;
+    bottom: 60px;
+    margin: 42px;
+    text-align: center;
+    position: absolute;
+}
+
+.profile .profile-bio h2 {
+    margin-top: 0;
+    font-weight: 200;
+}
+
+h1{
+    color: white;
+    margin-top: 5px;
+    text-shadow: none;
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    
+}
+
+h2, h3, h4, h5, h6 {
+    color: #585f69;
+    margin-top: 5px;
+    text-shadow: none;
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+h2 {
+    font-size: 40px;
+    line-height: 36px;
+}
+
+p, li, li a {
+    color: #555;
+    text-align: left;
+}                                                            
+
+.Logo2 {
+    align-items: top;
+}
+
+.img-thumbnail{
+    border-radius: 1700px;
+}
+
