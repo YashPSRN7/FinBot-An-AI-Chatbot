@@ -4,6 +4,8 @@ import { Tween, Timeline } from "react-gsap";
 import "./SectionSlide.css";
 import Logo from "../media/finlogo.png";
 import Jumbotron from 'react-bootstrap/Jumbotron'
+import Image from 'react-bootstrap/Image'
+// import  Grid  from "react-bootstrap/Grid";
 
 
 
@@ -63,7 +65,10 @@ const SectionSlide = () => (
                                                 <h3>Contirbution</h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget massa nec turpis congue bibendum. Integer nulla felis, porta suscipit nulla et, dignissim commodo nunc. Morbi a semper nulla.</p>
                                                 <p>Proin mauris odio, pharetra quis ligula non, vulputate vehicula quam. Nunc in libero vitae nunc ultricies tincidunt ut sed leo. Sed luctus dui ut congue consequat. Cras consequat nisl ante, nec malesuada velit pellentesque ac. Pellentesque nec arcu in ipsum iaculis convallis.</p>
+                                                     
+                                                        
                                                 </div>
+
                                             </div>    
                                             </div>
                                         </div>

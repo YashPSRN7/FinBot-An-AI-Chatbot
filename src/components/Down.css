@@ -1,0 +1,60 @@
+.card {
+	max-width: 2000px;
+	background-color: #f7f7f7;
+	position: absolute;
+	margin-bottom: 50px;
+}
+.card:hover {
+	z-index: 1;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	transform: scale(1.05);
+}
+.money {
+	margin-left: 105px;
+	margin-top: 30px;
+}
+.card-text {
+	text-align: justify;
+	text-justify: inter-word;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.mint {
+	margin-left: 110px;
+	margin-top: 60px;
+}
+.businessstd {
+	margin-left: 110px;
+	margin-top: 50px;
+}
+.finshots {
+	margin-left: 110px;
+	margin-top: 90px;
+}
+.tickertape {
+	margin-left: 110px;
+	margin-top: 80px;
+}
+.screener {
+	margin-left: 110px;
+	margin-top: 120px;
+}
+.tickerfinology {
+	margin-left: 110px;
+	margin-top: 100px;
+}
+.h2-news {
+	margin-top: 40px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+.card-text-books a {
+	color: black;
+	text-align: center;
+}
+.card-text-books a:hover {
+	color: #060606;
+}
+.card-text-books {
+	text-align: center;
+}
