@@ -19,10 +19,10 @@ class News extends React.Component {
         {id: 11, name: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies fermentum pellentesque. Phasellus eu faucibus nulla. Cras sed tincidunt arcu, a viverra magna'}
         ];
         items = items.map(function(item) {
-        return       <div key={item.id} className="card" style={{width: 'rem'}}>
+        return       <div key={item.id} className="card3" style={{width: 'rem'}}>
                         <img className="card-img-top" src={item.src} alt src ="https://indianmemetemplates.com/wp-content/uploads/ye-toh-latest-news-hai.jpg" />
                          <div className="card-body">
-                         <h5 className="card-title">Card title</h5>
+                         <h1 className="card-title">Card title</h1>
                             <p className="card-text">{item.name}.</p>
                          <a href="#" className="btn btn-primary">Read Full Article</a>
                      </div>

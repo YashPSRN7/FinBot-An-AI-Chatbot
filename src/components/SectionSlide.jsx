@@ -21,7 +21,7 @@ const SectionSlide = () => (
                                 src={Logo}
                                 alt="potato internet, kya kare hum"
                             />
-                            <h1 className="">Our Developers</h1>
+                            <h1 className="bruh">Our Developers</h1>
                         
                     </section>
                     <Tween from={{ x: "-100%" }} to={{ x: "0%" }}>
