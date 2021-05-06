@@ -38,9 +38,9 @@ li a:hover {
 .Logo {
     margin-top: -12px;
     padding-left: 40px;
-    width: 150px;
+    width: 100px;
     float: left;
-    transform: scale(1.7);
+    transform: scale(3.0);
 }
 
 .nav-links {
