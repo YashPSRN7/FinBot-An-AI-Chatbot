@@ -1,0 +1,23 @@
+{"intents": [
+    {"tag": "stock",
+     "patterns": ["What is a stock", "What are stocks"],
+     "responses": ["A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called \"shares."],
+     "context_set": ""
+    },
+    {"tag": "mutual",
+     "patterns": ["What are Mutual funds?"],
+     "responses": ["A mutual fund is an open-end professionally managed investment fund that pools money from many investors to purchase securities. Mutual funds are \"the largest proportion of equity of U.S. corporations.\" Mutual fund investors may be retail or institutional in nature"],
+     "context_set": ""
+    },
+    {"tag": "indices",
+     "patterns": ["What are indices"],
+     "responses": ["Indices are a measurement of the price performance of a group of shares from an exchange. For example, the FTSE 100 tracks the 100 largest companies on the London Stock Exchange. Trading indices enables you to get exposure to an entire economy or sector at once, while only having to open a single position."],
+     "context_set": ""
+    },
+    {"tag": "compare stock and mutual fund",
+     "patterns": ["Mutual funds versus stocks", "stocks versus Mutual funds", "Mutual Funds vs stocks", "Mutual funds or stock which is better"],
+     "responses": ["When you invest in a stock, you are purchasing a share of one company. A mutual fund offers more diversification by bundling many company stocks into one investment. ... But that doesn't mean you have to buy and trade individual stocks — you can also gain that exposure through equity mutual funds."],
+     "context_set": ""
+    }
+]
+}

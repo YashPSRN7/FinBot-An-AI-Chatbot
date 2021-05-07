@@ -1,5 +1,5 @@
 .sectionwipes {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .sectionwipes #pinContainer {
@@ -25,7 +25,7 @@
 }
 
 .sectionwipes .panel.turqoise {
-    background-color: #9CFF00;
+    background-color: #9cff00;
 }
 
 .sectionwipes .panel.green {
@@ -33,7 +33,7 @@
 }
 
 .sectionwipes .panel.bordeaux {
-    background-color: #9CFF00;
+    background-color: #9cff00;
 }
 
 /* .sectionwipes {
@@ -71,17 +71,13 @@
     background-color: #953543;
 } */
 
-
 /* Slide Bio*/
 
-                      
-
-.card2{
+.card2 {
     margin-top: 20%;
     -moz-border-radius: 2%;
     -webkit-border-radius: 2%;
-    border-radius: 2%
-    
+    border-radius: 2%;
 }
 
 .profile .profile-body {
@@ -108,22 +104,25 @@
     font-weight: 200;
 }
 
-h1{
+h1 {
     color: white;
     margin-top: 5px;
     text-shadow: none;
     font-weight: normal;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     text-align: center;
-    
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: #585f69;
     margin-top: 5px;
     text-shadow: none;
     font-weight: normal;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     text-align: left;
 }
 h2 {
@@ -131,19 +130,17 @@ h2 {
     line-height: 36px;
 }
 
-p, li, li a {
+p,
+li,
+li a {
     color: #555;
     text-align: left;
-}                                                            
+}
 
 .Logo2 {
     align-items: top;
 }
 
-.img-thumbnail{
+.img-thumbnail {
     border-radius: 1700px;
-}
-
-.bruh{
-    color: white;
 }
