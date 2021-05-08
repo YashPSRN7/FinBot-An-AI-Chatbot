@@ -40,3 +40,20 @@
 .rcw-conversation-container > .rcw-header {
     background-color: rgb(156, 255, 0);
 }
+
+.rcw-conversation-container > .rcw-header > .rcw-title {
+    padding-left: 20px;
+    font-weight: bolder;
+    color: black;
+}
+
+.rcw-conversation-container > .rcw-header > span {
+    font-size: small;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.rcw-widget-container > .rcw-launcher{
+    background-color: rgb(156, 255, 0);
+}
+

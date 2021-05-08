@@ -5,14 +5,7 @@
 	height: 300px;
 	box-sizing: none;
 	padding: 50px;
-	background-image: linear-gradient(
-		to left bottom,
-		#055b17,
-		#367b26,
-		#5e9c36,
-		#88be46,
-		#b5e056
-	);
+	background-color: #f7f7f7f7;
 	
 	
 }

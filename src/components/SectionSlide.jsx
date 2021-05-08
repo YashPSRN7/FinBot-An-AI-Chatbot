@@ -3,6 +3,9 @@ import { Controller, Scene } from "react-scrollmagic";
 import { Tween, Timeline } from "react-gsap";
 import "./SectionSlide.css";
 import Logo from "../media/finlogo.png";
+import BawaFace from "../media/bawaface.jpg"
+import YashFace from "../media/yashface.jpg"
+import PawanFace from "../media/pawanface.png"
 // import Jumbotron from 'react-bootstrap/Jumbotron'
 // import Image from 'react-bootstrap/Image'
 // import  Grid  from "react-bootstrap/Grid";
@@ -30,12 +33,12 @@ const SectionSlide = () => (
                                                 <div className="col-md-5 text-center">
                                                     <img
                                                         className="img-thumbnail md-margin-bottom-10"
-                                                        src="https://i.pinimg.com/736x/91/7d/6f/917d6fe868189926002ca0db7e80ccd4.jpg"
+                                                        src={BawaFace}
                                                         alt=""
                                                     />
                                                 </div>
                                                 <div className="col-md-7">
-                                                    <h2>Edward Rooster</h2>
+                                                    <h2>Aditya Bawa</h2>
                                                     <h3>Contirbution</h3>
                                                     <p>
                                                         Lorem ipsum dolor sit
@@ -82,12 +85,12 @@ const SectionSlide = () => (
                                                 <div className="col-md-5 text-center">
                                                     <img
                                                         className="img-thumbnail md-margin-bottom-10"
-                                                        src="https://i.pinimg.com/736x/91/7d/6f/917d6fe868189926002ca0db7e80ccd4.jpg"
+                                                        src={YashFace}
                                                         alt=""
                                                     />
                                                 </div>
                                                 <div className="col-md-7">
-                                                    <h2>Edward Rooster</h2>
+                                                    <h2>Yash Pandhare</h2>
                                                     <h3>Contirbution</h3>
                                                     <p>
                                                         Lorem ipsum dolor sit
@@ -134,12 +137,12 @@ const SectionSlide = () => (
                                                 <div className="col-md-5 text-center">
                                                     <img
                                                         className="img-thumbnail md-margin-bottom-10"
-                                                        src="https://i.pinimg.com/736x/91/7d/6f/917d6fe868189926002ca0db7e80ccd4.jpg"
+                                                        src={PawanFace}
                                                         alt=""
                                                     />
                                                 </div>
                                                 <div className="col-md-7">
-                                                    <h2>Edward Rooster</h2>
+                                                    <h2>Pawan Pujari</h2>
                                                     <h3>Contirbution</h3>
                                                     <p>
                                                         Lorem ipsum dolor sit

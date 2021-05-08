@@ -6,7 +6,7 @@ import Down from "./components/Down";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Learn from "./components/Learn.jsx";
-import { TextField, Button } from "@material-ui/core";
+// import { TextField, Button } from "@material-ui/core";
 import { Widget, addResponseMessage } from "react-chat-widget";
 import "react-chat-widget/lib/styles.css";
 import "./App.css";
@@ -125,7 +125,7 @@ class App extends Component {
 
                     <Widget
                         title={"FinBot"}
-                        subtitle={"For all your financial needs"}
+                        subtitle={"For all your financial knowledge"}
                         handleNewUserMessage={this.handleNewUserMessage}
                     />
                     <Switch>
