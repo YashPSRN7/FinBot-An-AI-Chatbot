@@ -10,9 +10,9 @@ class Home extends React.Component {
     render() {
         return (
             <div className="Home">
-                <div className="robot">
+                {/* <div className="robot">
                     <img src={Robot} alt="potato internet lmao"></img>
-                </div>
+                </div> */}
                 <div className="bg-video">
                     <VideoBg>
                         <VideoBg.Source
