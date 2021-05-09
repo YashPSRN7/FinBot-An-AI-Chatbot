@@ -57,3 +57,6 @@
     background-color: rgb(156, 255, 0);
 }
 
+.rcw-message-text p {
+    font-size: small;
+}

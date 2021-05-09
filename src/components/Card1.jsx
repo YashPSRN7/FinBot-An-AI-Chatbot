@@ -17,7 +17,7 @@ class Card1 extends React.Component {
 	render() {
 		return (
 			<div class="col-lg-6 col-md-12 col-sm-12" onClick={this.togglePopup}>
-				<div class="panel-1">
+				<div class="panel-1 p-content">
 					<h3>
 						 <span>{this.props.heading}</span>
 					</h3>

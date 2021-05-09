@@ -5,7 +5,7 @@ class Down extends React.Component {
 	render() {
 		return (
 			<>
-				<div className="Down">
+				<div className="Down c-content">
 					<div class="news-tools">
 						<div class="heading">
 							<h2 class="h2-news">NEWS TOOLS</h2>

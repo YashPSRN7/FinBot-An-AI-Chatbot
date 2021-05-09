@@ -11,7 +11,7 @@ import PawanFace from "../media/pawanface.png"
 // import  Grid  from "react-bootstrap/Grid";
 
 const SectionSlide = () => (
-    <div className="sectionwipes">
+    <div className="sectionwipes s-content">
         <Controller>
             <Scene triggerHook="onLeave" duration="300%" pin>
                 <Timeline wrapper={<div id="pinContainer" />}>

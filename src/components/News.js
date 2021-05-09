@@ -30,7 +30,7 @@ class News extends React.Component {
         });
         return (
             
-            <div className="news">
+            <div className="news n-content">
                 <Masonry
                     breakpointCols={ {default: 4, 800: 2} }
                     className="my-masonry-grid"

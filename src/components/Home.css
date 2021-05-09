@@ -1,0 +1,31 @@
+.center-content span {
+    position: absolute;
+    margin: 0, auto;
+    color: white;
+    font-size: 70px;
+    font-family: Poppins;
+    font-weight: bolder;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -20%);
+}
+
+.center-content-desc span {
+    position: absolute;
+    margin: 0, auto;
+    color: white;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: bolder;
+    left: 50%;
+    top: 28%;
+    transform: translate(-50%, -28%);
+}
+.bg-video {
+    opacity: 0.4;
+    z-index: 1 !important;
+}
+
+.robot {
+    z-index: 2 !important;
+}
